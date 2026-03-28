@@ -2,7 +2,7 @@ YAML
 
 name: Deploy to EC2
 
-on:
+"on":
   push:
     branches:
       - main
